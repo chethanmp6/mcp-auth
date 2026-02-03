@@ -1,0 +1,9 @@
+mcp
+httpx
+pydantic
+python-dotenv
+uvicorn
+fastmcp
+logfire
+rich
+starlette
